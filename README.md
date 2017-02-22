@@ -1,2 +1,3 @@
 # LOL-competition
-introduce of LOL
+introduce of LOL   
+it is a good game
